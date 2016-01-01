@@ -10,6 +10,9 @@ gem 'bootstrap-sass', '3.3.1'
 # Use font awesome for icons and fonts
 gem 'font-awesome-sass', '4.2.0'
 
+# Use devise for authenticaiton
+gem 'devise', '3.4.1'
+
 # Use postgresql as the database for production
 group :production do
   gem 'pg'
